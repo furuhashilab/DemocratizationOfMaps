@@ -1,6 +1,9 @@
 # DemocratizationOfMaps
-「地図の民主化」というタイトルのテーマソングを作ってみた。
+「地図の民主化」というタイトルのテーマソングを作ってみた。 
 
+collaborated with ChatGPT Jan 30 Version.
+
+---
 
 ## Title: Democratization of Maps / "地図の民主化" v1.0
 
