@@ -27,7 +27,7 @@ Let's democratize the maps <br>
 地図を民主化しよう <br>
  
 Put the power in people's hands <br>
-人々の手に権力を <br>
+人々の手にチカラを <br>
  
 No more top-down control <br>
 もうトップダウンの支配はいらない <br>
