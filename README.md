@@ -33,7 +33,7 @@ No more top-down control <br>
 もうトップダウンの支配はいらない <br>
 
 Let's draw new geospatial features <br>
-新しい地理空間的特徴を描こう <br>
+新しい地物を描こう <br>
 
 
 ### Verse 2:
@@ -61,7 +61,7 @@ No more top-down control <br>
 もうトップダウンの支配はいらない <br>
 
 Let's draw new geospatial features <br>
-新しい地理空間機能を描こう <br>
+新しい地物を描こう <br>
 
 
 ### Bridge:
@@ -89,7 +89,7 @@ No more top-down control <br>
 もうトップダウンの支配はいらない <br>
 
 Let's draw new geospatial features <br>
-新しい地理空間的特徴を描こう <br>
+新しい地物を描こう <br>
 
 
 ### Outro:
